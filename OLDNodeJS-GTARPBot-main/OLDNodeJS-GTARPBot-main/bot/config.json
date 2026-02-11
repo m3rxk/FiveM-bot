@@ -1,0 +1,49 @@
+{
+    "Channels" : {
+        "PlayerListCh": "",
+        "LeaderChannel" : "",
+        "welcome": "",
+        "TokenLogs": "",
+        "Suggestions": ""
+    },
+
+    "Roles" : {
+        "Staff" : "",
+        "everyone": "",
+        "Codes": ""
+    },
+
+    "Verify" : {
+        "channel": "",
+        "role": ""
+    },
+
+    "Tickets" : {
+        "catrgory": "",
+        "channel": "",
+        "emoji": "",
+        "log": ""
+    },
+
+    "Settings" : {
+        "GuildId" : "",
+        "ServerIP" : "",
+        "Token" : ""
+    },
+
+    "Embed" : {
+        "color" : "",
+        "ServerName" : "",
+        "TeamSpeakIp" : "",
+        "ConnectingIP" : "",
+        "footer": "Developed By m7rxk",
+        "logo" : ""
+    },
+
+    "Sql" : {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+}
